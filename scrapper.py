@@ -1,3 +1,8 @@
+"""
+This is a program for
+find words in a text or a file.
+"""
+
 
 to_search = 'a'
 
